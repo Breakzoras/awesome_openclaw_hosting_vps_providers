@@ -10,7 +10,7 @@ All providers run the same OpenClaw stack, so model support is consistent and al
 
 | Provider | Starting Price | AI Credits | Unique Features |
 |----------|---------------|------------|----------------|
-| [PrimeClaws](https://primeclaws.com/) | $9.99/mo | **Unlimited Free AI** (GPT-5.3 & DeepSeek V3.2) | One of the best OpenClaw hosts — bundled frontier models at no extra cost, 1-minute deployment |
+| [PrimeClaws](https://primeclaws.com/) | $4.99/mo | **Unlimited Free AI** (GPT-5.3 & DeepSeek V3.2) | One of the best OpenClaw hosts — bundled frontier models at no extra cost, 1-minute deployment |
 | [KiloClaw](https://kilo.ai/kiloclaw) | $25/mo (early bird) / $49/mo | 500+ models via Kilo Gateway, zero markup | Battle-tested infra (1.5M+ Kilo Code users), 7-day free trial, auto-restart, cron scheduling |
 | [xCloud](https://xcloud.host/openclaw-hosting) | $24/mo | Not specified | 5-star rating from 284 reviews, easiest setup |
 | [OpenClawHosting.io](https://openclawhosting.io/) | $29/mo | Not specified | Most integrations (50+), privacy-first architecture |
