@@ -17,6 +17,7 @@ All providers run the same OpenClaw stack, so model support is consistent and al
 | [ClawCloud.net](https://clawcloud.net/) | $49/mo | $15 included | Fastest deployment (1 minute), includes API credits |
 | [ClawHosters](https://clawhosters.com/) | €19/mo (~$21) | Gemini Flash & DeepSeek included | EU-based (Germany), multi-platform, SSH access, ZeroTier VPN, personality wizard, skill system |
 | [GetClawCloud](https://GetClawCloud.com/) | 7-Day Free Trial | 2,000,000 Daily Tokens (Trial) | Risk-Free Power: 2M free daily tokens during trial, then BYOK. NVMe persistence, SSH, dedicated EU nodes. |
+| [OneClickClaw](https://oneclickclaw.io) | €14.99/mo (€10.42 annual) | BYOK, no markup | Security-first: dedicated EU VPS, hardened by default (no exposed gateway, auth enforced), auto-patched CVEs, daily backups, GDPR-ready EU data residency, one-click deploy |
 
 ### ⚠️ Raw VPS Providers (No Bundled AI)
 
