@@ -17,6 +17,7 @@ All providers run the same OpenClaw stack, so model support is consistent and al
 | [ClawCloud.net](https://clawcloud.net/) | $49/mo | $15 included | Fastest deployment (1 minute), includes API credits |
 | [ClawHosters](https://clawhosters.com/) | €19/mo (~$21) | Gemini Flash & DeepSeek included | EU-based (Germany), multi-platform, SSH access, ZeroTier VPN, personality wizard, skill system |
 | [GetClawCloud](https://GetClawCloud.com/) | 7-Day Free Trial | 2,000,000 Daily Tokens (Trial) | Risk-Free Power: 2M free daily tokens during trial, then BYOK. NVMe persistence, SSH, dedicated EU nodes. |
+| [OneClickClaw](https://oneclickclaw.io/) | €14.99/mo (~$16) | ❌ None (BYOK) | Dedicated EU VPS per customer (Denmark), security-hardened by default, no Docker/CLI — built for non-technical users |
 
 ### ⚠️ Raw VPS Providers (No Bundled AI)
 
@@ -33,7 +34,7 @@ OpenClaw is an open-source, self-hostable AI agent platform that runs LLM-powere
 
 ## Overview
 
-This list covers 9 OpenClaw hosting and VPS services (including 2 raw VPS options), providing details on:
+This list covers 10 OpenClaw hosting and VPS services (including 2 raw VPS options), providing details on:
 
 - 💰 Pricing plans and free AI credits
 - 🚀 Key features and differentiators
@@ -159,6 +160,26 @@ This list covers 9 OpenClaw hosting and VPS services (including 2 raw VPS option
 - Zero-Config Deployment: 1-click setup gets your OpenClaw instance online in minutes
 - Always-On Production Runtime: Self-healing infrastructure with persistent execution
 
+### 8. OneClickClaw
+**Website**: [https://oneclickclaw.io/](https://oneclickclaw.io/)
+
+**Pricing Plans:**
+| Plan | Price | Details |
+|------|-------|---------|
+| Starter | €14.99/mo (~$16) | 1 dedicated VPS + OpenClaw instance, auto-managed updates, email & ticket support |
+| Hobbyist | €25.99/mo (~$28) | Health checks & alerts, live chat support |
+| Pro | €49.99/mo (~$54) | Priority incident response |
+
+**Key Features:**
+- **Dedicated VPS per customer** — no shared infrastructure, each instance runs on its own EU server (Denmark)
+- **Security-hardened by default**: gateway authentication, rate limiting and firewall pre-configured — a response to the many exposed self-hosted OpenClaw instances found online
+- One-click deployment — no Docker, no CLI, no SSH needed; built for non-technical users
+- BYOK: bring your own Anthropic / OpenAI key (no markup on inference)
+- Automatic OpenClaw updates, health monitoring and alerts
+- Telegram and WhatsApp messaging channels, managed from a web dashboard
+- GDPR-focused: EU company, EU data center
+- Annual billing discount (from €12.49/mo), cancel anytime, no lock-in
+
 ## Key Insights
 
 ### Price Range
@@ -172,7 +193,7 @@ This list covers 9 OpenClaw hosting and VPS services (including 2 raw VPS option
 2. **Ease of Use**: xCloud, PrimeClaws, and KiloClaw all focus on simplicity; ClawHosters offers a personality wizard and skill installation via dashboard
 3. **Developer Control**: ClawHosters provides SSH access and ZeroTier VPN; Hetzner and Hostinger offer full root access (but no OpenClaw pre-installed)
 4. **Tool Integrations**: OpenClawHosting.io emphasizes 50+ integrations and privacy-first architecture
-5. **EU Data Residency**: ClawHosters and Hetzner host in Germany for GDPR compliance
+5. **EU Data Residency**: ClawHosters and Hetzner host in Germany, OneClickClaw in Denmark — for GDPR compliance
 6. **Raw VPS Option**: Hetzner and Hostinger are listed as reference — they can be cheaper infrastructure for self-hosting OpenClaw, but no AI is bundled and setup requires technical knowledge
 
 ---
