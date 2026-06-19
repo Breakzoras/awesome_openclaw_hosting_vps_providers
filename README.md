@@ -17,6 +17,7 @@ All providers run the same OpenClaw stack, so model support is consistent and al
 | [ClawCloud.net](https://clawcloud.net/) | $49/mo | $15 included | Fastest deployment (1 minute), includes API credits |
 | [ClawHosters](https://clawhosters.com/) | €19/mo (~$21) | Gemini Flash & DeepSeek included | EU-based (Germany), multi-platform, SSH access, ZeroTier VPN, personality wizard, skill system |
 | [GetClawCloud](https://GetClawCloud.com/) | 7-Day Free Trial | 2,000,000 Daily Tokens (Trial) | Risk-Free Power: 2M free daily tokens during trial, then BYOK. NVMe persistence, SSH, dedicated EU nodes. |
+| [OneClickClaw](https://oneclickclaw.io/) | €14.99/mo (~$16) | BYOK, no markup | EU and GDPR first, dedicated single-tenant server, signable DPA, human support (ClawCrew, 24 languages), built for non-technical users |
 
 ### ⚠️ Raw VPS Providers (No Bundled AI)
 
@@ -33,7 +34,7 @@ OpenClaw is an open-source, self-hostable AI agent platform that runs LLM-powere
 
 ## Overview
 
-This list covers 9 OpenClaw hosting and VPS services (including 2 raw VPS options), providing details on:
+This list covers 10 OpenClaw hosting and VPS services (including 2 raw VPS options), providing details on:
 
 - 💰 Pricing plans and free AI credits
 - 🚀 Key features and differentiators
@@ -158,6 +159,20 @@ This list covers 9 OpenClaw hosting and VPS services (including 2 raw VPS option
 - High-Performance Infrastructure: Hosted on dedicated EU nodes (Germany) with enterprise-grade NVMe persistent storage
 - Zero-Config Deployment: 1-click setup gets your OpenClaw instance online in minutes
 - Always-On Production Runtime: Self-healing infrastructure with persistent execution
+
+### 8. OneClickClaw
+**Website**: [https://oneclickclaw.io/](https://oneclickclaw.io/)
+
+**Pricing:**
+- **Base Plan**: €14.99/month (~$16)
+
+**Key Features:**
+- **Built for non-technical users** — we manage the AI for you, no terminal, Docker, or SSH ever
+- Fully managed OpenClaw on a **dedicated single-tenant EU server**, live in about 5 minutes
+- **EU and GDPR first**: EU data residency and a signable Data Processing Agreement (DPA)
+- Security hardening handled for you
+- **Real human support** through ClawCrew, in 24 languages, not a chatbot loop
+- **BYOK with no token markup** — bring your own AI key and pay your provider directly
 
 ## Key Insights
 
